@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "sinopia-inn-reservation-app": "apps/sinopia-inn-reservation-app",
+    "sinopia-inn-reservation-app-e2e": "apps/sinopia-inn-reservation-app-e2e"
+  }
+}
