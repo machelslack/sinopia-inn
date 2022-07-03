@@ -1,4 +1,8 @@
 import styled from '@emotion/styled';
+import {
+  Components,
+  Button,
+} from "@sinopia-inn-monorepo/components";
 
 const StyledPage = styled.div`
   .page {
@@ -411,6 +415,7 @@ export function Index() {
               />
             </svg>
           </p>
+          <Button />
         </div>
       </div>
     </StyledPage>
